@@ -3,6 +3,9 @@ www.miscreat.co.uk
 MxSxC1
 The Dark Is A Cold Lonely Shadow
 
+
+v101 Thinner Rain, Updated Pack Format. May be slightly more overhead.
+
 v099 Update - Moved Repository From WeatherSleet which was test. Thinned out rain and removed alpha channel causing some issues. Fixed tiling issues. Tidied up alpha channel and reduced size of a couple snowflakes. Updated Credits. Something has changed with Iris, so this needs further testing, not showing up in some shaders now (or not clearly), and Astralex is broken. Looks much better in Vanilla now though, and rain much improved.
 
 Custom Rain (Arena Version)
